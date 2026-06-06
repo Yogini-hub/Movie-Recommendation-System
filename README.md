@@ -66,7 +66,7 @@ python -m streamlit run app.py
 
 ## Screenshot
 
-![Movie Recommendation System]()
+![Movie Recommendation System](https://github.com/Yogini-hub/Movie-Recommendation-System/blob/main/Screenshot%202026-06-06%20134638.png?raw=true)
 
 ## Author
 
