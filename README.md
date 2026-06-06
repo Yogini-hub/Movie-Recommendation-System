@@ -64,7 +64,9 @@ python -m streamlit run app.py
 
 ## Screenshot
 
-(Add a screenshot of your running application here)
+## Screenshot
+
+![Movie Recommendation System]()
 
 ## Author
 
